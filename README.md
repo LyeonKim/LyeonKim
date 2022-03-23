@@ -7,6 +7,9 @@
    Now, I'm studying to become a Web Publisher! ✨ <br>
   Please look forward👀 to my journey 💞️
 </p>
+<h4>
+  Contact Me !  📫<a href="mailto:cofuse1215@gmail.com">cofuse1215@gmail.com</a> 📫
+</h4>
 
 <!--  👀 🌱 💞️ 📫  -->
 
